@@ -1,0 +1,5 @@
+Quantum CAPTCHA Generator, the requirements:
+Pillow>=9.0.0
+numpy>=1.23.0
+streamlit>=1.20.0 #Optional (if you want a Streamlit or GUI version later)
+
